@@ -13,7 +13,7 @@ http://localhost:3000
 The application displays the following message:
 
 ```text
-welcome in my small word
+Hiii from jenkins, added webhook, we are from 18 May Devops batch
 ```
 
 ##  Technologies Used
@@ -102,7 +102,7 @@ You should see:
 App listening at http://localhost:3000
 ```
 
-## 🌐 Access the Application
+##  Access the Application
 
 Open a browser and visit:
 
@@ -113,7 +113,7 @@ http://localhost:3000
 Expected output:
 
 ```text
-welcome in my small word
+Hiii from jenkins, added webhook, we are from 18 May Devops batch
 ```
 
 
@@ -130,7 +130,7 @@ npm install
    ↓
 npm start
    ↓
-Node.js Application
+app.js Application
 ```
 
 ##  Testing
@@ -144,7 +144,7 @@ http://localhost:3000/
 Expected response:
 
 ```text
-welcome in my small word
+Hiii from jenkins, added webhook, we are from 18 May Devops batch
 ```
 
 ##  Useful Commands
