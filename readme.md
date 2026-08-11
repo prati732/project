@@ -185,4 +185,9 @@ The main objective of this project is to demonstrate:
 **Entry File:** `app.js`
 **Start Command:** `npm start`
 
+<<<<<<< HEAD
 ## author name:Pratibha Daware
+=======
+## output:
+![Output Screenshot](images/223349.png)
+
